@@ -1,0 +1,40 @@
+/* BASIC STYLES HERE */
+body {
+    background-color: #000000;
+    color: #f6f6f6
+}
+
+footer {
+    background-color: #47464d;
+    border: 2px solid #fb742d;
+    color: #000000;
+}
+
+.header-theme {
+    background-color: #47464d;
+    border: 2px solid #fb742d;
+    color: #000000;
+}
+
+.header-color {
+    color: #000000;
+}
+
+.theme-card {
+    background-color: #47464d;
+    color: #fb742d;
+    border: 1px solid #000000;
+    min-height: 30dvh;
+    display: flex;
+    align-content: center;
+}
+
+.card-image {
+    object-fit: cover;
+    object-position: center;
+    min-height: 15dvh
+}
+
+.bg-theme-color {
+    background-color: #000000;
+}
